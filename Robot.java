@@ -372,7 +372,7 @@ public class Robot extends TimedRobot {
     
     m_autoSelected = m_chooser.getSelected();
     /* 
-    if (m_autoSelected != null) {
+   
       CommandScheduler.getInstance().schedule(m_autoSelected);
     }
     */
